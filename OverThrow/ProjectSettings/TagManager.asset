@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - floorVerify
+  - ground
+  - cube
+  - scanBar
+  - endline
+  - explodeblue
+  - limitFall
+  - fireCube
+  - balls
+  - backPlayer
+  - hideScan
+  - turnPlayer
+  - frontPlayer
+  - turnRight
+  - turnLeft
+  - endLine
+  - hideLaser
+  - wind
+  - SmashCube
+  - noTurn
+  - more1ball
+  - more2ball
+  - moreBalls
+  - moveUp
+  - moveRight
+  - moveDown
+  - moveLeft
+  - currentRight
+  - currentLeft
+  - moveRight2
+  - moveRight3
+  - moveRight4
+  - moveLeft2
+  - moveLeft3
+  - moveRight5
+  - moveLeft5
+  - moveRight6
+  - moveRight7
+  - up
+  - down
+  - right
+  - left
+  - endLineBoss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Cannon
+  - EndLine
+  - CubeTowers
+  - limitFall
+  - Cubes
+  - floorVerify
+  - ScanBar
+  - Routs
+  - balls
+  - tables
+  - Road
+  - SpawnCubePlayer
+  - SpawnCubeWorld
+  - platform
+  - ground
+  - towers
+  - laser
+  - Player
+  - turnPlayer
+  - endLine
+  - SmashCube
+  - fogGround
+  - Plane
+  - Wind
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
